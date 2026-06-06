@@ -5,3 +5,4 @@ Personal writeups for CTF challenges and labs — TryHackMe, HackTheBox, and mor
 | Room | Platform | Difficulty | Solved | Link |
 |------|----------|------------|--------|------|
 | Anthem | TryHackMe | Easy | May 2026 | [→](./tryhackme/anthem.md) |
+| CacheMeOutside | TryHackMe | Medium | June 2026 | [→](./tryhackme/cachemeoutside.md) |
