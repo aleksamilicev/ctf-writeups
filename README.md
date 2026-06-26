@@ -9,3 +9,4 @@ Personal writeups for CTF challenges and labs — TryHackMe, HackTheBox, and mor
 | CacheMeOutside | TryHackMe | Medium | June 2026 | [→](./tryhackme/cachemeoutside.md) |
 | Forward | TryHackMe | Medium | June 2026 | [→](./tryhackme/forward.md) |
 | Brains | TryHackMe | Easy | June 2026 | [→](./tryhackme/brains.md) |
+| Biohazard | TryHackMe | Medium | June 2026 | [→](./tryhackme/biohazard.md) |
